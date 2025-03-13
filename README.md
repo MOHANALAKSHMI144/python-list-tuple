@@ -118,7 +118,6 @@ attendance_records = [
     (104, "2025-03-01", "Present"),
     (105, "2025-03-01", "Absent"),
 ]
-
 employees = [
     (101, "Alice Johnson", "HR"),
     (102, "Bob Smith", "IT"),
